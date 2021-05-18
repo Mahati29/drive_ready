@@ -6,7 +6,7 @@ int fib_search(int n)
 	{
 		return 1;
 	}
-	while(n>0)
+	while(c<=n)
 	{
 		c=a+b;
 		a=b;
